@@ -1,32 +1,18 @@
 <?php
 
 /**
- * -------------------------------
- * Staticy - a simple effective PHP 7.0+ framework for LANs systems.
- *
- * This framework is free software: you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation, either version 3 of the License, or any
- * later version.
- *
- * This framework is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with this framework.  If not, see <http://www.gnu.org/licenses/>.
- * -------------------------------
+ * --------------------------------
+ * Staticy - PHP 7.0+ framework for LAN internal systems
+ * --------------------------------
  *
  * This framework act similarly to the MVC concepts in two dimensions.
  * Backend: controller and model became one thing called "unit".
  * Frontend: same as MVC still called "view".
- * It is under development stage and not released publicly yet, it will
- * be published as open source in Github.com.
+ * It was under private development stage before the publish.
  *
- * @author      Mustafa Alhadi [<hereismhtm@ymail.com>, <about.me/mhtm>]
- * @copyright   2018 Mustafa Alhadi
- * @license     GNU General Public License, version 3.0 (GPLv3)
+ * @author      Mustafa Alhadi [<mhtm@protonmail.com>, <gravatar.com/hereismhtm>]
+ * @copyright   2020 Mustafa Alhadi
+ * @license     MIT License
  */
 
 
