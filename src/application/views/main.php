@@ -5,3 +5,4 @@ tag::$view->addCSS(HTML::BOOTSTRAP);
 
 tag::h1('You are @main page...');
 tag::p('It works :)')->set('style', 'color:green; font-size:500%');
+tag::a('https://1drv.ms/u/s!CgtN0xUWDljScuAsFDYAPafGP3gU');
